@@ -8,29 +8,10 @@ In a world where everyone’s rushing to use AI for everything, it's easy to for
 
 Just kidding (sort of). Let's solve some problems and keep our minds sharp!
 
-## Problem Set
+## 🧠 Problem Set
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: center;">ID</th>
-      <th style="text-align: center;">Difficulty</th>
-      <th style="text-align: center;">Name</th>
-      <th style="text-align: center;">Complexity</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">0135</td>
-      <td style="text-align: center; color: red;">Hard</td>
-      <td>Candy</td>
-      <td style="text-align: center;">O(n)</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">0380</td>
-      <td style="text-align: center; color: orange;">Medium</td>
-      <td>Insert Delete GetRandom O(1)</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+| ID   | Difficulty  | Name                          | Complexity |
+|:----:|:-----------:|:------------------------------|:----------:|
+| 0135 | 🔴          | Candy                         | O(n)       |
+| 0380 | 🟠          | Insert Delete GetRandom O(1)  |            |
+
