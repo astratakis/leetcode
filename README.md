@@ -16,9 +16,10 @@ Just kidding (sort of). Let's solve some problems and keep our minds sharp!
 
 ## 🧠 Problem Set
 
-| ID   | Difficulty  | Name                          | Complexity |
-|:----:|:-----------:|:------------------------------|:----------:|
-| 0065 | 🔴          | Valid Number                  | O(n)       |
-| 0135 | 🔴          | Candy                         | O(n)       |
-| 0380 | 🟠          | Insert Delete GetRandom O(1)  |            |
+| ID   | Difficulty  | Name                                                                                        | Complexity |
+|:----:|:-----------:|:--------------------------------------------------------------------------------------------|:----------:|
+| 0007 | 🟠          | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)               | O(logn)    |
+| 0065 | 🔴          | Valid Number                                                                                | O(n)       |
+| 0135 | 🔴          | Candy                                                                                       | O(n)       |
+| 0380 | 🟠          | Insert Delete GetRandom O(1)                                                                |            |
 
