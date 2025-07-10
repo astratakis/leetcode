@@ -12,6 +12,7 @@ Just kidding (sort of). Let's solve some problems and keep our minds sharp!
 
 | ID   | Difficulty  | Name                          | Complexity |
 |:----:|:-----------:|:------------------------------|:----------:|
+| 0065 | 🔴          | Valid Number                  | O(n)       |
 | 0135 | 🔴          | Candy                         | O(n)       |
 | 0380 | 🟠          | Insert Delete GetRandom O(1)  |            |
 
