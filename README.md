@@ -8,6 +8,12 @@ In a world where everyone’s rushing to use AI for everything, it's easy to for
 
 Just kidding (sort of). Let's solve some problems and keep our minds sharp!
 
+## 🌐 Google Interview Questions
+
+| ID                                                               | Difficulty  | Name                          | Complexity |
+|:----------------------------------------------------------------:|:-----------:|:------------------------------|:----------:|
+| [01](https://github.com/astratakis/leetcode/tree/main/google/01) | 🟠          | Maximum Good Land             | O(n²)      |
+
 ## 🧠 Problem Set
 
 | ID   | Difficulty  | Name                          | Complexity |
