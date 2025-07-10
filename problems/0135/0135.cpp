@@ -3,15 +3,6 @@
 
 using namespace std;
 
-void print_vec(vector<int> &vec)
-{
-    for (int i = 0; i < vec.size(); ++i)
-    {
-        cout << vec[i] << " ";
-    }
-    cout << endl;
-}
-
 int candy(vector<int> &ratings)
 {
     int n = ratings.size();
