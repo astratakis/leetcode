@@ -20,6 +20,7 @@ Just kidding (sort of). Let's solve some problems and keep our minds sharp!
 |:----:|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------:|
 | 0003 | 🟠          | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)                  | O(n)       |
 | 0007 | 🟠          | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)                                                                                | O(logn)    |
+| 0012 | 🟠          | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)                                                                              | O(logn)    |
 | 0065 | 🔴          | Valid Number                                                                                                                                                 | O(n)       |
 | 0135 | 🔴          | Candy                                                                                                                                                        | O(n)       |
 | 0329 | 🔴          | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)                                        | O(n²logn)  |
