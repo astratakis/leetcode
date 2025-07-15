@@ -23,7 +23,8 @@ Just kidding (sort of). Let's solve some problems and keep our minds sharp!
 | 0007 | 🟠          | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)                                                                                | O(logn)    |
 | 0012 | 🟠          | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)                                                                              | O(logn)    |
 | 0065 | 🔴          | Valid Number                                                                                                                                                 | O(n)       |
+| 0120 | 🟠          | [Triangle](https://leetcode.com/problems/triangle/description/)                                                                                              | O(n)       |
 | 0135 | 🔴          | Candy                                                                                                                                                        | O(n)       |
 | 0329 | 🔴          | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)                                        | O(n²logn)  |
-| 0380 | 🟠          | Insert Delete GetRandom O(1)                                                                |            |
+| 0380 | 🟠          | Insert Delete GetRandom O(1)                                                                                                                                 | O(1)       |
 
